@@ -1,0 +1,5 @@
+com\integrador\ProjetoRentCarsInt\ProjetoRentCarsIntApplicationTests.class
+com\integrador\ProjetoRentCarsInt\service\CategoriasServiceTest.class
+com\integrador\ProjetoRentCarsInt\service\AluguelServiceTest.class
+com\integrador\ProjetoRentCarsInt\service\ClienteServiceTest.class
+com\integrador\ProjetoRentCarsInt\service\CarroServiceTest.class
